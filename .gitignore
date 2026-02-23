@@ -1,0 +1,16 @@
+# Python virtual environments
+venv*/
+venv310*/
+
+# OS / IDE files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Environment files
+.env
+
+# Spark binaries / downloaded files
+spark-*.tgz
