@@ -5,6 +5,12 @@ Author: Dorra Kallel
 
 ---
 
+![
+  
+](<=dashbord terminal4.png>)
+![
+  
+](dasbboad2.png)
 ## 1. General Overview
 
 This project implements a real-time data engineering pipeline that ingests live data from a public REST API, streams it through Apache Kafka, processes it using Spark Structured Streaming, and visualizes insights in a live dashboard.
